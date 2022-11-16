@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/juan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juannherrerad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juannherrerad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/juannh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juannh" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/juannherrerad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juannherrerad" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/juannh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juannh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
